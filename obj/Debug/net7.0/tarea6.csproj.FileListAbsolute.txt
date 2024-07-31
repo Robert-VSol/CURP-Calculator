@@ -1,0 +1,15 @@
+C:\Users\doris\Desktop\programación\unidc#\tarea6\bin\Debug\net7.0\tarea6.exe
+C:\Users\doris\Desktop\programación\unidc#\tarea6\bin\Debug\net7.0\tarea6.deps.json
+C:\Users\doris\Desktop\programación\unidc#\tarea6\bin\Debug\net7.0\tarea6.runtimeconfig.json
+C:\Users\doris\Desktop\programación\unidc#\tarea6\bin\Debug\net7.0\tarea6.dll
+C:\Users\doris\Desktop\programación\unidc#\tarea6\bin\Debug\net7.0\tarea6.pdb
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.csproj.AssemblyReference.cache
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.AssemblyInfoInputs.cache
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.AssemblyInfo.cs
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.csproj.CoreCompileInputs.cache
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.dll
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\refint\tarea6.dll
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.pdb
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\tarea6.genruntimeconfig.cache
+C:\Users\doris\Desktop\programación\unidc#\tarea6\obj\Debug\net7.0\ref\tarea6.dll
